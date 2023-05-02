@@ -34,8 +34,8 @@
 <!-- MAIF -->
 <item component="ComponentInfo{fr.maif.digital.maifetmoi/fr.maif.digital.maifetmoi.SplashScreenActivity}" drawable="maif"/>
 
-<!-- myBricks -->
-<item component="ComponentInfo{uk.co.otissoft.mybrickset/uk.co.otissoft.mybrickset.LauncherActivity}" drawable="mybricks"/>
-
 <!-- Writer -->
 <item component="ComponentInfo{com.zoho.writer/com.zoho.writer.activity.LauncherActivity}" drawable="writer"/>
+
+<!-- myBricks -->
+<item component="ComponentInfo{uk.co.otissoft.mybrickset/uk.co.otissoft.mybrickset.LauncherActivity}" drawable="mybricks"/>
